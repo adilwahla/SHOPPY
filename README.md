@@ -1,3 +1,10 @@
+# CheckOut 
+
+![ecomerce](https://github.com/adilwahla/SHOPPY/assets/48839911/8a9af448-e109-43e2-a158-578961433a2a)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
